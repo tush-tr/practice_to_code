@@ -8,4 +8,5 @@ for i in range(row+1):
             print(" ",end=" ")
     print("\n")
     
+input("Press enter")
 
