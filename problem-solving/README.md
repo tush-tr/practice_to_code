@@ -23,6 +23,8 @@
 <li><a href="bit-manipulation/bitcount.cpp">Count bits by interviewbit  (Bit Manipulation)</a></li>
 <li><a href="bit-manipulation/divideinteger.cpp">Divide integers interviewbit </a></li>
 <li><a href="bit-manipulation/reversebits.cpp">Reverse Bits (Bit Manipulation) </a></li>
+<li><a href="bit-manipulation/leetcode-xor-array.cpp">XOR Operation in an Array- Leetcode</a></li>
+<li><a href="bit-manipulation/xor-sequence.cpp">XOR Sequence - Hackerrank</a></li>
 <li><a href="bit-manipulation/.cpp"></a></li>
 <li><a href="bit-manipulation/.cpp"></a></li>
 <li><a href="bit-manipulation/.cpp"></a></li>
