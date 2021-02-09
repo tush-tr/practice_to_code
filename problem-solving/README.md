@@ -33,8 +33,11 @@
 <li><a href="bit-manipulation/.cpp"></a></li>
 <li><a href="bit-manipulation/.cpp"></a></li>
 
+## Mathematics based problems
+<li><a href="mathematics/reverseinteger.cpp">Reverse an integer. (Interview Bit)</a></li>
+<li><a href="mathematics/jiyasequence.cpp">Jiya's Sequence (hackerearth)</a></li>
 
-
+<li><a href="mathematics/add-digits.cpp">Add Digits (Leet code) (Recursion)</a></li>
 
 
 
