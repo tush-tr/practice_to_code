@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
-#define int long long int
-signed main(){
+#define int long long int // --------
+signed main(){ //--------
 	int t;
 	cin>>t;
 	while(t--){
