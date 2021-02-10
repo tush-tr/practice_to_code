@@ -753,7 +753,8 @@
 <li><a href="graph/prob.cpp">Water Jug problem using BFS
 </a></li>
 <li><a href="graph/prob.cpp">Water Jug problem using BFS
-</a></li>graph/prob.cpp">Find if there is a path of more thank length from a source
+</a></li>
+<li><a href="graph/prob.cpp">Find if there is a path of more thank length from a source
 </a></li>
 <li><a href="graph/prob.cpp">M-ColouringProblem
 </a></li>
@@ -933,5 +934,5 @@
 </a></li>
 <li><a href="bit-manipulation/prob448.cpp">Trailing zero bit-manipulation question from interviewbit.</a></li>
 <li><a href="bit-manipulation/prob449.cpp">Reverse Bits (Bit Manipulation)</a></li>
-<li><a href="bit-manipulation/prob450.cpp">Generate all subsets of a set.</a></li>
+
 </ol>
