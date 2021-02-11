@@ -25,7 +25,7 @@
 <li><a href="bit-manipulation/reversebits.cpp">Reverse Bits (Bit Manipulation) </a></li>
 <li><a href="bit-manipulation/leetcode-xor-array.cpp">XOR Operation in an Array- Leetcode</a></li>
 <li><a href="bit-manipulation/xor-sequence.cpp">XOR Sequence - Hackerrank</a></li>
-<li><a href="bit-manipulation/.cpp"></a></li>
+<li><a href="bit-manipulation/numberofsteps.cpp">Number of steps to reduce a number to zero. (LEETCODE)</a></li>
 <li><a href="bit-manipulation/.cpp"></a></li>
 <li><a href="bit-manipulation/.cpp"></a></li>
 <li><a href="bit-manipulation/.cpp"></a></li>
