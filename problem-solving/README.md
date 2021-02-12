@@ -39,7 +39,8 @@
 
 <li><a href="mathematics/add-digits.cpp">Add Digits (Leet code) (Recursion)</a></li>
 
-
+## Recursion and Backtracking
+<li><a href="recursion-backtracking/superdigits.cpp">Recursive Digit Sum- Super Digit (HACKERRANK).</a></li>
 
 
 ## Other problems
