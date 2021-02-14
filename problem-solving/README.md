@@ -27,6 +27,8 @@
 <li><a href="bit-manipulation/xor-sequence.cpp">XOR Sequence - Hackerrank</a></li>
 <li><a href="bit-manipulation/.cpp">Number of steps to reduce a number to zero. (LEETCODE)</a></li>
 <li><a href="bit-manipulation/midori.cpp">Midori and chocolates (GEEKSFORGEEKS)</a></li>
+<li><a href="bit-manipulation/prob1.cpp">Geek and Code (GEEKSFORGEEKS)</a></li>
+
 
 ## Mathematics based problems
 <li><a href="mathematics/reverseinteger.cpp">Reverse an integer. (Interview Bit)</a></li>
