@@ -9,5 +9,8 @@
 
 <li><a href="xor-sequence.cpp">XOR Sequence - Hackerrank</a></li>
 
+<li><a href="midori.cpp">Midori and chocolates (GEEKSFORGEEKS)</a></li>
+
+
 
 </ol>

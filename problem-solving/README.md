@@ -26,12 +26,7 @@
 <li><a href="bit-manipulation/leetcode-xor-array.cpp">XOR Operation in an Array- Leetcode</a></li>
 <li><a href="bit-manipulation/xor-sequence.cpp">XOR Sequence - Hackerrank</a></li>
 <li><a href="bit-manipulation/.cpp">Number of steps to reduce a number to zero. (LEETCODE)</a></li>
-<li><a href="bit-manipulation/.cpp"></a></li>
-<li><a href="bit-manipulation/.cpp"></a></li>
-<li><a href="bit-manipulation/.cpp"></a></li>
-<li><a href="bit-manipulation/.cpp"></a></li>
-<li><a href="bit-manipulation/.cpp"></a></li>
-<li><a href="bit-manipulation/.cpp"></a></li>
+<li><a href="bit-manipulation/midori.cpp">Midori and chocolates (GEEKSFORGEEKS)</a></li>
 
 ## Mathematics based problems
 <li><a href="mathematics/reverseinteger.cpp">Reverse an integer. (Interview Bit)</a></li>
