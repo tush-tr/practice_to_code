@@ -12,8 +12,8 @@
 <li><a href="midori.cpp">Midori and chocolates (GEEKSFORGEEKS)</a></li>
 
 <li><a href="prob1.cpp">Geek and Code (GEEKSFORGEEKS)</a></li>
-<li><a href="prob2.cpp">Sum of two integers without using arithmetic operators (MICROSOFT) (GEEKSFORGEEKS)</a></li>
-
+<li><a href="prob3.cpp">Sum of two integers without using arithmetic operators (MICROSOFT) (GEEKSFORGEEKS)</a></li>
+<li><a href="prob4.cpp">Hamming Distance (LEETCODE)</a></li>
 
 
 </ol>
