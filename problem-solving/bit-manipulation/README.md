@@ -14,6 +14,7 @@
 <li><a href="prob1.cpp">Geek and Code (GEEKSFORGEEKS)</a></li>
 <li><a href="prob3.cpp">Sum of two integers without using arithmetic operators (MICROSOFT) (GEEKSFORGEEKS)</a></li>
 <li><a href="prob4.cpp">Hamming Distance (LEETCODE)</a></li>
-
+<li><a href="prob5.cpp">Prime Number of Set Bits in Binary Representation(LEETCODE)
+</a></li>
 
 </ol>
