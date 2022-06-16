@@ -3,20 +3,18 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let max = nums.length/2;
-    let res;
-    nums.forEach((e)=>{
-        let count = 0;
-        nums.forEach((r)=>{
-            if(e==r){
-                count++;
-            }
-
-        })
-        if(count >= max){
-            max = count;
-            res = e;
+    let ansIndex = 0;
+    let count = 1;
+    for(let i=1;i<nums.length;i++){
+        if(nums[i]==nums[ansIndex]){
+            count++;
+        }else{
+            count--;
         }
-    })
-    return res;
+        if(count==0){
+            ansIndex = i;
+            count = 1;
+        }
+    }
+    return nums[ansIndex]
 };
