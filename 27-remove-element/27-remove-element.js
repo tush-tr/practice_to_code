@@ -11,11 +11,5 @@ var removeElement = function(nums, val) {
             i++
         }
     })
-    // for(let i=0;i<nums.length;i++){
-    //     if(nums[i]!==val){
-    //         nums[j] = nums[i];
-    //         j++;
-    //     }
-    // }
     return i;
 };
