@@ -25,3 +25,5 @@ Questions for practice picked from Leetcode & Geeks for Geeks.
 | **≤ 10<sup>4</sup>**   | **O(N<sup>2</sup>)** |
 | **≤ 10<sup>5</sup>**   |  **O(N * logN)** |
 | **≤ 10<sup>6</sup>**   | **O(N)**, **O(logN)**, **O(1)** |
+
+>Readme Credits: <a href="https://github.com/Iamtripathisatyam/">Satyam Tripathi</a>
