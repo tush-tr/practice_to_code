@@ -1,5 +1,28 @@
 # Data Structures and Algorithms 450+ Problems solving in C++
-# Arrays
+
+<ol>
+<li><a href="#arrays">Arrays</a>
+<li><a href="#matrix">Matrix</a>
+<li><a href="#string">Strings</a>
+<li><a href="#searchandsort">Searching and Sorting</a>
+<li><a href="#linkedlist">Linked List</a>
+<li><a href="#binary-trees">Binary Trees</a>
+<li><a href="#bst">Binary Search Tree</a>
+<li><a href="#greedy">Greedy Programming</a>
+<li><a href="#backtracking">Backtracking</a>
+<li><a href="#stacks-queues">Stack and Queues</a>
+<li><a href="#heap">Heap</a>
+<li><a href="#graph">Graph</a>
+<li><a href="#trie">Trie</a>
+<li><a href="#dynamic">Dynamic Programming</a>
+<li><a href="#bitmask">Bit Manipulation</a>
+</ol>
+
+
+<br><br><br>
+<hr>
+
+<h1 id="arrays">Arrays</h1>
 <ol>
 <li><a href="arrays/reverse.cpp">Reverse the array</a></li>
 <li><a href="arrays/prob2.cpp">Find the maximum and minimum element in an array</a></li>
@@ -72,7 +95,7 @@
 <li><a href="arrays/prob.cpp">Median of 2 sorted arrays of different size
 </a></li>
 
-# Matrix
+<h1 id="matrix"> Matrix</h1>
 
 <li><a href="matrix/prob.cpp">Spiral traversal on a Matrix
 </a></li>
@@ -95,7 +118,7 @@
 <li><a href="matrix/prob.cpp">Common elements in all rows of a given matrix
 </a></li>
 
-# String
+<h1 id="string"> String</h1>
 
 <li><a href="string/prob.cpp">Reverse a String
 </a></li>
@@ -184,7 +207,7 @@
 <li><a href="string/prob.cpp">Recursively print all sentences that can be formed from list of word lists
 </a></li>
 
-# Searching & Sorting
+<h1 id="searchandsort"> Searching & Sorting</h1>
 
 <li><a href="searching-sorting/prob.cpp">Find first and last positions of an element in a sorted array
 </a></li>
@@ -259,7 +282,7 @@
 <li><a href="searching-sorting/prob.cpp">Partitioning and Sorting Arrays with Many Repeated Entries
 </a></li>
 
-# Linked List
+<h1 id="linkedlist"> Linked List</h1>
 <li><a href="linked-list/prob.cpp">Write a Program to reverse the Linked List. (Both Iterative and recursive)
 </a></li>
 <li><a href="linked-list/prob.cpp">Reverse a Linked List in group of Given Size. [Very Imp]
@@ -333,7 +356,7 @@
 <li><a href="linked-list/prob.cpp">Find the first non-repeating character from a stream of characters
 </a></li>
 
-# Binary Trees
+<h1 id="binary-trees"> Binary Trees</h1>
 <li><a href="binary-trees/prob.cpp">level order traversal
 </a></li>
 <li><a href="binary-trees/prob.cpp">Reverse Level Order traversal
@@ -405,7 +428,7 @@
 <li><a href="binary-trees/prob.cpp">Tree Isomorphism Problem
 </a></li>
 
-# Binary Search Trees
+<h1 id="bst"> Binary Search Trees</h1>
 <li><a href="bst/prob.cpp">find a value in a BST
 </a></li>
 <li><a href="bst/prob.cpp">Deletion of a node in a BST
@@ -451,7 +474,7 @@
 <li><a href="bst/prob.cpp">Flatten BST to sorted list
 </a></li>
 
-# Greedy
+<h1 id="greedy"> Greedy</h1>
 
 <li><a href="greedy/prob.cpp">Activity Selection Problem
 </a></li>
@@ -524,7 +547,7 @@
 <li><a href="greedy/prob.cpp">Find maximum sum possible equal sum of three stacks
 </a></li>
 
-# BackTracking
+<h1 id="backtracking"> BackTracking</h1>
 
 <li><a href="backtracking/prob.cpp">Rat in a maze Problem
 </a></li>
@@ -565,7 +588,7 @@
 <li><a href="backtracking/prob.cpp">Find the K-th Permutation Sequence of first N natural numbers
 </a></li>
 
-# Stacks & Queues
+<h1 id="stacks-queues"> Stacks & Queues</h1>
 <li><a href="sq/prob.cpp"> Implement Stack from Scratch
 </a></li>
 <li><a href="sq/prob.cpp"> Implement Queue from Scratch
@@ -643,7 +666,7 @@
 <li><a href="sq/prob.cpp">Next Smaller Element
 </a></li>
 
-# Heap
+<h1 id="heap"> Heap</h1>
 
 <li><a href="heap/prob.cpp">Implement a Maxheap/MinHeap using arrays and recursion.
 </a></li>
@@ -682,7 +705,7 @@
 <li><a href="heap/prob.cpp">Minimum sum of two numbers formed from digits of an array
 </a></li>
 
-# Graph
+<h1 id="graph"> Graph</h1>
 
 <li><a href="graph/prob.cpp">Create a Graph, print it
 </a></li>
@@ -773,7 +796,7 @@
 <li><a href="graph/prob.cpp">Two Clique Problem
 </a></li>
 
-# Trie
+<h1 id="trie"> Trie</h1>
 
 <li><a href="trie/prob.cpp">Construct a trie from scratch
 </a></li>
@@ -788,7 +811,7 @@
 <li><a href="trie/prob.cpp">Print unique rows in a given boolean matrix
 </a></li>
 
-# Dynamic Programming
+<h1 id="dynamic"> Dynamic Programming</h1>
 
 <li><a href="dynamic/prob.cpp">Coin ChangeProblem
 </a></li>
@@ -911,7 +934,7 @@
 <li><a href="dynamic/prob.cpp">Maximum Length of Pair Chain
 </a></li>
 
-# Bit Manipulation
+<h1 id="bitmask"> Bit Manipulation</h1>
 <li><a href="bit-manipulation/prob438.cpp">Count set bits in an integer
 </a></li>
 <li><a href="bit-manipulation/prob439.cpp">Find the two non-repeating elements in an array of repeating elements
