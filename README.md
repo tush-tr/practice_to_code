@@ -1,4 +1,4 @@
-# Important questions from coding platforms- Leetcode, hackerrank, hackerearth, Interviewbit, Geeks for geeks
+# TopicWise Questions
 
 <ol>
 
