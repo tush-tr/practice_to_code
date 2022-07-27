@@ -21,11 +21,21 @@ var bruteForce = function(nums){
     }
     return ans;
 }
-var missingNumber = function(nums) {
+const bitmanipulation = function(nums){
     let temp = 0;
     let i=0;
     for(i=0;i<nums.length;i++){
-        temp = temp ^ i ^ nums[i]
+        temp = temp ^ i ^ nums[i];
     }
     return temp ^ i
+}
+var missingNumber = function(nums) {
+    // summation approach
+    const sum = nums.reduce((a,b)=>(a+b));
+    let s = 0;
+    for(let i=0;i<=nums.length;i++){
+        s+=i;
+    }
+    return s-sum;
+    
 };
