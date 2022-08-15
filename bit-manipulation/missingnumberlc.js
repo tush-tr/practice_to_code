@@ -16,4 +16,13 @@ var missingNumber = function(nums) {
     }
     return ans;
 };
-console.log(missingNumber([3,0,1]))
+
+const bitmask = (nums)=>{
+    let temp = 0;
+    let i=0;
+    for(i=0;i<nums.length;i++){
+        temp = temp ^ i ^ nums[i];
+    }
+    return temp^i
+}
+console.log(bitmask([3,0,1]))
