@@ -11,5 +11,4 @@ int josephus(int n, int k){
 
 int main(){
     cout<<josephus(5,2)<<endl;
-
 }
