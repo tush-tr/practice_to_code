@@ -11,7 +11,8 @@ const str = "A man, a plan, a canal: Panama";
 //     return isPalin(s, l + 1, h - 1);
 //   }
 //   return true;
-// };
+// }; 
+
 // console.log(isPalin(replaced,0,replaced.length-1))
 
 var isPalindrome = function (s) {
