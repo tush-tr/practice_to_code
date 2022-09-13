@@ -37,5 +37,4 @@ var missingNumber = function(nums) {
         s+=i;
     }
     return s-sum;
-    
 };
