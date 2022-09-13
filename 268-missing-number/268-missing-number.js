@@ -32,9 +32,6 @@ const bitmanipulation = function(nums){
 var missingNumber = function(nums) {
     // summation approach
     const sum = nums.reduce((a,b)=>(a+b));
-    let s = 0;
-    for(let i=0;i<=nums.length;i++){
-        s+=i;
-    }
+    const s = nums.length * (nums.length+1)/2
     return s-sum;
 };
