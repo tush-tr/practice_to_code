@@ -14,5 +14,5 @@ void powerset(string s, int i, string curr)
 
 int main()
 {
-    powerset("ab",0,"");
+    powerset("abcd",0,"");
 }

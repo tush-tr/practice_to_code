@@ -2,6 +2,7 @@
 
 <ol>
 
+
 ## Loops 
 <li><a href="loops/pattern.cpp">Make a number pattern using loops</a></li>
 
@@ -35,6 +36,7 @@
 <li><a href="mathematics/jiyasequence.cpp">Jiya's Sequence (hackerearth)</a></li>
 
 <li><a href="mathematics/add-digits.cpp">Add Digits (Leet code) (Recursion)</a></li>
+<li><a href="mathematics/count-digits.cpp">Count Digits (GFG)</a></li>
 
 ## Recursion and Backtracking
 <li><a href="recursion-backtracking/superdigit.cpp">Recursive Digit Sum- Super Digit (HACKERRANK).</a></li>
