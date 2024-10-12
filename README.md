@@ -27,3 +27,15 @@ Questions for practice picked from Leetcode & Geeks for Geeks.
 | **≤ 10<sup>6</sup>**   | **O(N)**, **O(logN)**, **O(1)** |
 
 >Readme Credits: <a href="https://github.com/Iamtripathisatyam/">Satyam Tripathi</a>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tush-tr/ps-practice-to-code/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tush-tr/ps-practice-to-code/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
